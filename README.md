@@ -1,20 +1,27 @@
-### Welcome to Joowon Kim's Github 👋
+## <p align="center">Welcome To JoowonKim's GitHub</p>
 
-<!--
-**0122wndnjs/0122wndnjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JoowonKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:0122wndnjs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/0122wndnjs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Skills</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=OCaml&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
+</p>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0122wndnjs&langs_count=10&layout=compact&theme=dark&hide=css)](https://github.com/0122wndnjs/0122wndnjs)﻿
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0122wndnjs&langs_count=10&layout=compact&theme=dark&hide=css)](https://github.com/0122wndnjs/0122wndnjs)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0122wndnjs&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
