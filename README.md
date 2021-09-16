@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:0122wndnjs@gmail.com)
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0122wndnjs&langs_count=10&layout=compact&theme=dark&hide=css)](https://github.com/0122wndnjs/0122wndnjs)﻿
 
