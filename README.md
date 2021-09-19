@@ -4,7 +4,8 @@
 <a href="https://www.linkedin.com/in/joowon-kim-0122/" target="_blank"><img src="https://img.shields.io/badge/JoowonKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:0122wndnjs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/0122wndnjs" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+<a href="https://velog.io/@0122wndnjs" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 </p>
 
 <h3 align="center"> Who Am I?</h3>
