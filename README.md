@@ -22,7 +22,7 @@ I worked as a Java Developer for 2 years and I still sometimes develop in Java. 
 <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=BlockChain.com&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/>
 </p>
 
 <p align="center">
