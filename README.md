@@ -13,7 +13,7 @@
 <p align="center">
 Hi there! Im' a BaaS (BlockChain As A Service) Consultant in Seoul, Korea. </br>
 I worked as a Java Developer for 2 years and I still sometimes develop in Java. </br>
-
+Recently, I am implementing Smart Contract by using Solidity and Truffle </br>
 </p>
 
 <h3 align="center">Skills</h3>
